@@ -1,11 +1,11 @@
 # 📸 Adnan Image Studio
 
-A professional-grade image optimization tool for Linux. Faster and more efficient than web-based alternatives.
+A professional-grade image optimization tool for Linux.
 
-## ✨ Why Adnan Studio?
-- **Smart Compression:** Uses advanced algorithms to reduce size by up to 80% without losing visible quality.
-- **Metadata Stripping:** Removes hidden trackers and extra data from images.
-- **Native Speed:** No browser needed, works directly on your system.
+## ✨ Features
+- 🚀 **Smart Compression:** Reduce size up to 80%.
+- 🛡️ **Privacy:** Strips metadata (EXIF) automatically.
+- 🖼️ **Batch Processing:** Handles entire folders at once.
 
 ## 🛠️ Installation
 ```bash
@@ -14,12 +14,13 @@ cd Adnan-Image-Studio
 ./adnan-studio.sh
 ```
 
-## 💖 Support the Developer
-| Method | Address |
+## 💖 Support and Donation
+| Method | Link / Address |
 | :--- | :--- |
-| ☕ **Ko-fi** | [Donate](https://ko-fi.com/adnan_hasan) |
-| 💸 **PayPal** | [Support](https://paypal.me/achememories) |
+| ☕ **Ko-fi** | [Donate on Ko-fi](https://ko-fi.com/adnan_hasan) |
+| 💸 **PayPal** | [Support via PayPal](https://paypal.me/achememories) |
 | 🪙 **BTC** | `15cfHvdGpm9JjU64hyUxxK3YBatpJ9v7iX` |
+| 🟢 **USDT (TRC20)** | `TUTfLjNJinM8hiuTenhaugLy1oenVWot3b` |
 
 --- 
 *Created by Adnan Hasan*
